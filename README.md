@@ -31,4 +31,4 @@ This repository provides jupyter notebook (.ipynb) with clear instructions.
 <!-- ## Results -->
 
 ## Acknowledgments
-The code is built upon the [work](https://github.com/eminorhan/mixture-of-experts) by Emin Orhan and [work](https://github.com/drawbridge/keras-mmoe).
+The code is built upon the [work](https://github.com/eminorhan/mixture-of-experts) by Emin Orhan and [work](https://github.com/drawbridge/keras-mmoe) by Deng.
