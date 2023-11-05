@@ -3,7 +3,7 @@ Multi-gate Mixture-of-Experts model implementation.
 
 Copyright (c) 2018 Drawbridge, Inc
 Licensed under the MIT License (see LICENSE for details)
-Written by Alvin Deng
+Written by Alvin Deng and modified by the Anonymous authors
 """
 
 import tensorflow as tf

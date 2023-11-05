@@ -29,3 +29,6 @@ This repository provides jupyter notebook (.ipynb) with clear instructions.
 
 >Hardware Implementation: bitstream file and jupyter notebook for PS control (PYNQ).
 <!-- ## Results -->
+
+## Acknowledgments
+The code is built upon the [work](https://github.com/eminorhan/mixture-of-experts) by Emin Orhan and [work](https://github.com/drawbridge/keras-mmoe).
